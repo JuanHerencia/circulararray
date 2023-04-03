@@ -1,5 +1,5 @@
-# Integrante 1: ____   _______
-# Integrante 2: ____   _______
+# Integrante 1: Juan Luis Herencia Guerra
+# Integrante 2: Cristian David Celadita Cordova
 
 # Circular Array
 - Implementar todas las funciones del array circular en el "circulararray.h"
